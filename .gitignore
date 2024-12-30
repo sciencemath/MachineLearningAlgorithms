@@ -1,0 +1,106 @@
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata
+Icon?
+._*
+
+# macOS Volume info
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+com.apple.timemachine.donotpresent
+
+# macOS resource forks
+*.swp
+*.swo
+*.tmp
+.fseventsd
+._*
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.pipenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pytest
+.cache/
+
+# Sphinx documentation
+docs/_build/
+
+# PyCharm IDE
+.idea/
+*.iml
+
+# VSCode IDE
+.vscode/
+
+# MyPy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+coverage.xml
+*.coveragerc
+
+# Test results
+*.pytest_cache/
+.tox/
+.nox/
+
+# Local configuration
+*.env
+.env.*
+
+# Logs
+*.log
+
+# Editor backups and temporary files
+*.swp
+*.swo
+*.tmp
+~$*
+
