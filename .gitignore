@@ -1,6 +1,6 @@
 # Saved models
 *.pkl
-
+my_tfhub_cache/
 
 # macOS-specific files
 .DS_Store
